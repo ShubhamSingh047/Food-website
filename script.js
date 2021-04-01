@@ -19,3 +19,4 @@ setInterval(() => {
 		icon.nextElementSibling.classList.add('change')
 	}
 }, 1500)
+
